@@ -1,0 +1,29 @@
+body {
+  font-family: "Poppins", sans-serif;
+  text-align: center;
+  background-color: rgb(21, 185, 185, 0.5);
+  padding: 40px;
+  color: #fff;
+}
+
+.container {
+  background-color: #15b9b9;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 10 10 10px rgb(21, 185, 185, 0.3);
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: 20%;
+}
+a {
+  color: #fff;
+  text-decoration: none;
+}
+.icon {
+  margin: 10px;
+}
